@@ -1,0 +1,8 @@
+com\drportal\service\UserServiceImpl.class
+com\drportal\controller\IndexController.class
+com\drportal\configuration\ApplicationInitializer.class
+com\drportal\controller\DrPortalController.class
+com\drportal\service\UserService.class
+com\drportal\configuration\CORSFilter.class
+com\drportal\model\User.class
+com\drportal\configuration\ApplicationConfigurer.class
